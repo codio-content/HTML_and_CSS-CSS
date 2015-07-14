@@ -49,5 +49,7 @@ There are 3 options :
 * Inside `<style>  </style>` tags in the head of our HTML document.
 * Directly on a HTML tag as a `style="..."` attribute, and then it won't require a selector as it is already attached to a tag.
 
-Let's try some CSS in the next section.
+Putting style attributes directly on the html tags, as in the 3rd option defeats the purpose of css which was to separate the styling from the structure of the document, and so is rarely used, except for specific cases as we will see in a later unit.
+
+In the next two sections we will see how to use the 2 first options to add some style to our pages!
 
