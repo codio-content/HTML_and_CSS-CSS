@@ -30,7 +30,7 @@ Certain css properties are inherited from the parents.
 
 Lets visualize our `index.html` in a tree form :
 
-<iframe  width="100%" height="35%" src="/tree/tree.html#url=doc1.html" frameborder="0" allowfullscreen></iframe>
+<iframe  width="100%" height="45%" src="/tree/tree.html#url=/inline-style/index.html" frameborder="0" allowfullscreen></iframe>
 
 It is yet another way of seeing the html document.
 
@@ -45,7 +45,7 @@ p {
 
 Here is the same tree view of the html document, with the elements affected by the previous css highlighted in green :
 
-<iframe  width="100%" height="35%" src="/tree/tree.html#url=doc1.html&selected=p" frameborder="0" allowfullscreen></iframe>
+<iframe  width="100%" height="45%" src="/tree/tree.html#url=/inline-style/index.html&selected=p" frameborder="0" allowfullscreen></iframe>
 
 We see that the `<b>` and `<i>` tags are also affected by this style, They "inherit" the style from their parent `<p>` tag.
 
@@ -99,8 +99,10 @@ So anything inside the body would receive Arial font.
 
 Let's see, how it would look like in our tree view of the document :
 
-<iframe  width="100%" height="35%" src="/tree/tree.html#url=doc1.html&selected=body" frameborder="0" allowfullscreen></iframe>
+<iframe  width="100%" height="40%" src="/tree/tree.html#url=doc1.html&selected=body" frameborder="0" allowfullscreen></iframe>
 
-Not only is this notation simpler and shorter and more meaningfull, but also what would happen if we were using the previous notation and somebody decides to add a `<u>` tag ? We would have to modify our stylesheet to add styling for our `<u>` tag.Not
+Not only is this notation simpler and shorter but also what would happen if we were using the previous notation and somebody decides to add a `<u>` tag ? We would have to modify our stylesheet to add styling for our `<u>` tag.
+
+
 
 
