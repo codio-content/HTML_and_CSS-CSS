@@ -85,7 +85,7 @@ h1, h2, p, b, i {
 }
 ```
 
-The comma in a css selector means "or". So `h1, h2, p, b, i` means : Apply the styles to any of those.
+The comma in a css selector means "or". So `h1, h2, p, b, i` means : Apply the styles to `h1` or `h2` or `p` or `b` o `i`, so to any of those.
 
 But using the power of inheritance, we could just write :
 
@@ -101,7 +101,7 @@ Let's see, how it would look like in our tree view of the document :
 
 <iframe  width="100%" height="40%" src="/tree/tree.html#url=doc1.html&selected=body" frameborder="0" allowfullscreen></iframe>
 
-Not only is this notation simpler and shorter but also what would happen if we were using the previous notation and somebody decides to add a `<u>` tag ? We would have to modify our stylesheet to add styling for our `<u>` tag.
+Not only is this notation simpler and shorter but also what would happen if we were using the previous notation and somebody decides to add a `<h3>` tag ? We would have to modify our stylesheet to add styling for our `<h3>` tag otherwise it would have a different font than the rest of the document.
 
 
 
