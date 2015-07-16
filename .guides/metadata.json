@@ -9,6 +9,15 @@
    "content-file": ".guides/content/Introduction-265b.md"
   },
   {
+   "id": "449ebde6-8fb4-2b96-e5fd-cb3a6308c1e",
+   "title": "Demo",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Demo-449e.md"
+  },
+  {
    "id": "80f79dd-ce71-9d44-6403-f68ee087a7d6",
    "title": "Inline Style",
    "files": [],
@@ -38,9 +47,12 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-5-13ac.md"
+   "content-file": ".guides/content/Some-image-styling-13ac.md"
   }
  ],
  "theme": "charcoal",
- "scripts": []
+ "scripts": [
+  "https://code.jquery.com/jquery-1.11.3.min.js",
+  ".guides/webdevcourse.js"
+ ]
 }
