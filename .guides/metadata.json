@@ -37,15 +37,36 @@
    "id": "6cf2c1f-cd4b-bb8f-e9ec-3f0198c9adb3",
    "title": "Some text styling",
    "files": [],
-   "path": [],
+   "layout": "",
+   "path": [
+    "5-challenge"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Some-text-styling-6cf2.md"
   },
   {
    "id": "13ac839c-3a71-26c3-9de-fc0e24bae944",
    "title": "Some image styling",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: 6-img-styling/image.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "6-img-styling/style.css",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "6-img-styling"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Some-image-styling-13ac.md"
   }
