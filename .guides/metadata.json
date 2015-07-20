@@ -4,6 +4,7 @@
    "id": "265b8ea7-4f-e331-523-58b65244efe",
    "title": "Introduction",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Introduction-265b.md"
@@ -36,8 +37,26 @@
   {
    "id": "80f79dd-ce71-9d44-6403-f68ee087a7d6",
    "title": "Inline Style",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "5-inline-style/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 5-inline-style/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "5-inline-style"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Inline-Style-80f7.md"
   },
@@ -68,10 +87,25 @@
   {
    "id": "6cf2c1f-cd4b-bb8f-e9ec-3f0198c9adb3",
    "title": "Text color",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "9-text-color/style.css",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 9-text-color/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
    "layout": "",
    "path": [
-    "5-challenge"
+    "9-text-color"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Text-color-6cf2.md"
@@ -87,24 +121,88 @@
   {
    "id": "bd1ea1af-8739-dcf9-2e31-7bd999f3ba7c",
    "title": "Font styles and font weight",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "11-font-styles/style.css",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 11-font-styles/test.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "11-font-styles"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Font-styles-and-font-weight-bd1e.md"
   },
   {
    "id": "97b47354-afd4-a4d2-6e9b-15f2b86a3f95",
    "title": "Font families",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "12-font-families/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "12-font-families/style.css",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 12-font-families/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "12-font-families"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Font-families-97b4.md"
   },
   {
    "id": "dda870ec-4a63-279b-7b11-9233e5c5c0de",
    "title": "Font size and units",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "13-font-size/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "13-font-size/style.css",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 13-font-size/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "13-font-size"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Font-size-and-units-dda8.md"
   },
@@ -117,19 +215,19 @@
      "action": "close"
     },
     {
-     "path": "#preview: 6-img-styling/image.html",
+     "path": "#preview: 14-img-styling/image.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "6-img-styling/style.css",
+     "path": "14-img-styling/style.css",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "6-img-styling"
+    "14-img-styling"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Some-image-styling-13ac.md"
@@ -140,7 +238,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-15-fd73.md"
+   "content-file": ".guides/content/CSS-3-images-styles-fd73.md"
   }
  ],
  "theme": "charcoal",

@@ -1,6 +1,6 @@
 # Inline style
 
-Let's look at our index.html in the left code editor.
+Let's look at our `index.html` in the left code editor.
 
 Inside the `<head>` of the document add :
 
@@ -20,8 +20,9 @@ p {
 ```
 
 Preview the result now ..
+
 Do you notice something strange ?
 
 The small font size and blue color have been applied to all the `<p>` tags as expected BUT also to the `<b>` and `<i>` tags inside the `<p>`
-This is due to a concept called inheritance!
-Certain css properties are inherited from the parents.
+
+This is due to a concept called *inheritance*. Let's go to the next section to find out more about this.

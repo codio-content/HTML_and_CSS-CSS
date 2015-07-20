@@ -18,7 +18,11 @@ They are many more css3 styles that we will see later on.
 
 # Shadows !
 
-Add something about shadows ..
+Now let's add some shadows to our image, add the following to our css for `img` tag.
+
+```css
+box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7); 
+```
 
 # Congratulations 
 

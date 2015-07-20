@@ -43,13 +43,17 @@ Here are some examples :
 | `font-family:"Comic Sans MS", cursive, sans-serif;` | <div style='font-family:"Comic Sans MS", cursive, sans-serif;'>A white rabbit and a red fox</div> |
 | `font-family:"Courier New", Courier, monospace;` | <div style='font-family:"Courier New", Courier, monospace;'>A white rabbit and a red fox</div> |
 
-In general don't forget that fonts will look slightly different on different oses and browsers, even if you use the same font.
+In general don't forget that fonts will look slightly different on different systems and browsers, even if you use the same font.
 
 
 |||Challenge
 # Challenge with font families
 
-Some challenge with ...
+Have a look at the code in `index.html`
+
+You will notice that there are h1, h2, h3, h4 tags.
+
+You have to add style to the `style.css` file so that these tags actually have the font-family they are describing!
 
 {Check it!! | custom}(test-bui)
 

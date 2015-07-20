@@ -1,4 +1,4 @@
-Now let's enter into some details about text styling :
+Now let's see some details about text styling :
 
 # Text color
 
@@ -51,7 +51,13 @@ Then if you click inside the square, a nice color picker will appear, allowing y
 |||Challenge
 # Challenge with colors
 
-Some challenge with colors
+On the left bottom there is the preview of `index.html` file. This files links to the `style.css` file which is on the left top part.
+
+Add some styles to the `style.css` in order to have : 
+
+- H1 tags in `red` color
+- H2 tags in `orange` color
+- p tags in `blue` color
 
 {Check it!! | custom}(test-bui)
 

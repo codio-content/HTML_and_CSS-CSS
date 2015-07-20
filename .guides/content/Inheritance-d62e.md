@@ -25,5 +25,11 @@ This is a very interesting concept and is one of the reasons css is so powerful.
 
 |||warning
 # Caution
-Not all css propertires are inherited ! It is really important to note that only certain css properties inherit. For example, all the properties related to the styling of text inherit, font size, color, style ... are inherited but all the properties such as borders, margins, backgrounds and so on do NOT inherit. And that is by design! If you apply a border to a p tag, you wouldn't want that all the b i u tags inside it would also get a border. In general it is useful, when you learn a new css property if it inherists or not.
+Not all css propertires are inherited ! 
+
+It is really important to note that only certain css properties inherit. For example, all the properties related to the styling of text inherit, font size, color, style ... are inherited but all the properties such as borders, margins, backgrounds and so on do NOT inherit.
+
+That behaviour is by design! If you apply a border to a `<p>` tag, you wouldn't want that all the `<b>` `<i>` `<u>` tags inside it would also get a border. 
+
+In general it is useful, when you learn a new css property, to check if it inherits or not.
 |||

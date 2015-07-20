@@ -61,7 +61,11 @@ You can see that the 2 first rows change as the body font size changes. The last
 |||Challenge
 # Challenge with font sizes and units
 
-Some challenge with ...
+Take a look at the `index.html` file, it has again h1, h2, h3, h4. 
+
+If you have a look at `style.css` you will see that we defined some styles for this. The sizes are in pixels (px) and you asked to replace it by `%` but still get to the same size.
+
+The body size is `12px` , so change the css for the h1, h2, h3, h4 using `%` instead of `px`.
 
 {Check it!! | custom}(test-bui)
 

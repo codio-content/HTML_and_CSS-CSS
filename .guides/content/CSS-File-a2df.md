@@ -15,7 +15,7 @@ Again this is accomplished by adding a tag in the head of our html document. But
 Let's analyse this tag in detail :
 So we are "link"ing something to our html document, in this case the relation `rel="stylesheet"` tells the browser we are linking to a stylesheet and the `type="text/css"` means the document is of type `text/css` (css is just plain text), finally as we have seen for the `<a>` tags, the `href` attributes gives the browser the "hyper-reference" which is basically its address, where to find the document.So
 
-Now that we have created an external stylesheet and linked it to our html document, it's time for a little challenge.
+Now that we have created an external stylesheet and linked it to our html document, it's time to learn some more css properties.
 
 
 
