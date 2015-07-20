@@ -15,14 +15,14 @@ Imagine we have this html code :
 Nothing fancy, just some titles and some texts.
 If we display it without any styling, it should look like this :
 
-<iframe id="frm_ex_1" onLoad="autoResize('frm_ex_1');"  width="100%" src="/tree/empty.html" bgcolor="fff" frameborder="0" allowfullscreen></iframe>
+<iframe id="frm_ex_1" onLoad="autoResize('frm_ex_1');"  width="100%" src="tree/empty.html" bgcolor="fff" frameborder="0" allowfullscreen></iframe>
 
 
 Now let see what could be done with css, so we keep exactly the same structure and just add css.Now
 
-<iframe id="frm_ex_2" onLoad="autoResize('frm_ex_2');"  width="100%"  src="/tree/withstyle1.html" bgcolor="fff" frameborder="0" allowfullscreen></iframe>
+<iframe id="frm_ex_2" onLoad="autoResize('frm_ex_2');"  width="100%"  src="tree/withstyle1.html" bgcolor="fff" frameborder="0" allowfullscreen></iframe>
 
 And now can get really crazy (try to put your mouse over the elements) :
 
-<iframe id="frm_ex_3" height="120%"  width="100%" src="/tree/withstyle2.html" bgcolor="fff" frameborder="0" allowfullscreen></iframe
+<iframe id="frm_ex_3" height="120%"  width="100%" src="tree/withstyle2.html" bgcolor="fff" frameborder="0" allowfullscreen></iframe
 

@@ -6,7 +6,7 @@ Historically there was only HTML, but rapidly the people creating HTML pages dis
 
 Someone came with a great idea to remove all the styling attributes of the tags and put them in a separate place than the HTML. This would simplify the HTML, allow to reuse the same styles on different elements of a page en even in different pages. 
 
-CSS Was born ! 
+**CSS Was born !** 
 
 
 

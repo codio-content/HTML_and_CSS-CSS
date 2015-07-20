@@ -2,7 +2,7 @@
 
 Lets visualize our `index.html` in a tree form :
 
-<iframe  width="100%" height="45%" src="/tree/tree.html#url=/inline-style/index.html" frameborder="0" allowfullscreen></iframe>
+<iframe  width="100%" height="45%" src="tree/tree.html#url=/5-inline-style/index.html" frameborder="0" allowfullscreen></iframe>
 
 It is yet another way of seeing the html document.
 
@@ -17,7 +17,7 @@ p {
 
 Here is the same tree view of the html document, with the elements affected by the previous css highlighted in green :
 
-<iframe  width="100%" height="45%" src="/tree/tree.html#url=/inline-style/index.html&selected=p" frameborder="0" allowfullscreen></iframe>
+<iframe  width="100%" height="45%" src="/tree/tree.html#url=/5-inline-style/index.html&selected=p" frameborder="0" allowfullscreen></iframe>
 
 We see that the `<b>` and `<i>` tags are also affected by this style, They "inherit" the style from their parent `<p>` tag.
 
