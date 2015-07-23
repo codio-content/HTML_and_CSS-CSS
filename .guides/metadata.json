@@ -243,10 +243,33 @@
   {
    "id": "c5131ec8-2028-c9a8-9f08-bcea544c34a1",
    "title": "Final Challenge",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "16-challenge/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "16-challenge/style.css",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 16-challenge/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "16-challenge"
+   ],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-16-c513.md"
+   "content-file": ".guides/content/Final-Challenge-c513.md"
   }
  ],
  "theme": "charcoal",

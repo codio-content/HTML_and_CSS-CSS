@@ -1,8 +1,7 @@
 |||challenge
 # Final challenge
 
-For this challenge, we will ask you to create an html file called `index.html`.
-We will also ask you to create a css file called `style.css` and to refence it from the `index.html` file.
+For this challenge, we have created for you `index.html` and a css file called `style.css` that is referenced from the `index.html`. They are open on the top left. You can see a preview of the index on the bottom left.
 
 Here are the requirements for the content :
 
