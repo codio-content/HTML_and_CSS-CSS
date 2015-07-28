@@ -24,5 +24,5 @@ Now let see what could be done with css, so we keep exactly the same structure a
 
 And now can get really crazy (try to put your mouse over the elements) :
 
-<iframe id="frm_ex_3" height="120%"  width="100%" src="tree/withstyle2.html" bgcolor="fff" frameborder="0" allowfullscreen></iframe
+<iframe id="frm_ex_3" height="120%"  width="100%" src="tree/withstyle2.html" bgcolor="fff" frameborder="0" allowfullscreen></iframe>
 

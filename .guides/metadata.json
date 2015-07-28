@@ -7,7 +7,9 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Introduction-265b.md"
+   "content-file": ".guides/content/Introduction-265b.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "824b867a-4844-ca37-183-afec1fd248a2",
@@ -15,7 +17,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Cascading-Style-Sheets-824b.md"
+   "content-file": ".guides/content/Cascading-Style-Sheets-824b.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "3dc87ddb-719-55e-458-ef4aefde08b",
@@ -23,7 +27,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Where-do-we-put-our-styles-3dc8.md"
+   "content-file": ".guides/content/Where-do-we-put-our-styles-3dc8.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "449ebde6-8fb4-2b96-e5fd-cb3a6308c1e",
@@ -32,7 +38,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Demo-449e.md"
+   "content-file": ".guides/content/Demo-449e.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "80f79dd-ce71-9d44-6403-f68ee087a7d6",
@@ -58,7 +66,11 @@
     "5-inline-style"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Inline-Style-80f7.md"
+   "content-file": ".guides/content/Inline-Style-80f7.md",
+   "chapter": true,
+   "reset": [
+    "5-inline-style"
+   ]
   },
   {
    "id": "d62e9fe9-a70a-ae4a-4dc0-18738ce233e",
@@ -66,7 +78,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Inheritance-d62e.md"
+   "content-file": ".guides/content/Inheritance-d62e.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "21ba95e7-9c89-e21b-b4aa-5b40e734a972",
@@ -74,7 +88,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Grouping-styles-21ba.md"
+   "content-file": ".guides/content/Grouping-styles-21ba.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "a2df190c-37f7-9d06-2bf9-2631db27df43",
@@ -82,7 +98,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CSS-File-a2df.md"
+   "content-file": ".guides/content/CSS-File-a2df.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "6cf2c1f-cd4b-bb8f-e9ec-3f0198c9adb3",
@@ -108,15 +126,42 @@
     "9-text-color"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Text-color-6cf2.md"
+   "content-file": ".guides/content/Text-color-6cf2.md",
+   "chapter": true,
+   "reset": [
+    "9-text-color"
+   ]
   },
   {
    "id": "21b266c3-830f-86b7-10b0-70b0903720a2",
    "title": "Alignment, Transform and decoration of text",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "10-alignment/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "10-alignment/style.css",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "10-alignment/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "10-alignment"
+   ],
    "type": "markdown",
-   "content-file": ".guides/content/Alignment--Transform-and-decoration-of-text-21b2.md"
+   "content-file": ".guides/content/Alignment--Transform-and-decoration-of-text-21b2.md",
+   "chapter": true,
+   "reset": [
+    "10-alignment"
+   ]
   },
   {
    "id": "bd1ea1af-8739-dcf9-2e31-7bd999f3ba7c",
@@ -142,7 +187,11 @@
     "11-font-styles"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Font-styles-and-font-weight-bd1e.md"
+   "content-file": ".guides/content/Font-styles-and-font-weight-bd1e.md",
+   "chapter": true,
+   "reset": [
+    "11-font-styles"
+   ]
   },
   {
    "id": "97b47354-afd4-a4d2-6e9b-15f2b86a3f95",
@@ -173,7 +222,11 @@
     "12-font-families"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Font-families-97b4.md"
+   "content-file": ".guides/content/Font-families-97b4.md",
+   "chapter": true,
+   "reset": [
+    "12-font-families"
+   ]
   },
   {
    "id": "dda870ec-4a63-279b-7b11-9233e5c5c0de",
@@ -204,7 +257,11 @@
     "13-font-size"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Font-size-and-units-dda8.md"
+   "content-file": ".guides/content/Font-size-and-units-dda8.md",
+   "chapter": true,
+   "reset": [
+    "13-font-size"
+   ]
   },
   {
    "id": "13ac839c-3a71-26c3-9de-fc0e24bae944",
@@ -230,7 +287,11 @@
     "14-img-styling"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Some-image-styling-13ac.md"
+   "content-file": ".guides/content/Some-image-styling-13ac.md",
+   "chapter": true,
+   "reset": [
+    "14-img-styling"
+   ]
   },
   {
    "id": "fd737a97-3c9c-d4c2-8808-ddf855fc1759",
@@ -238,7 +299,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CSS-3-images-styles-fd73.md"
+   "content-file": ".guides/content/CSS-3-images-styles-fd73.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "c5131ec8-2028-c9a8-9f08-bcea544c34a1",
@@ -269,7 +332,11 @@
     "16-challenge"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Final-Challenge-c513.md"
+   "content-file": ".guides/content/Final-Challenge-c513.md",
+   "chapter": true,
+   "reset": [
+    "16-challenge"
+   ]
   }
  ],
  "theme": "charcoal",
