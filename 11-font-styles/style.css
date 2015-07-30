@@ -1,8 +1,10 @@
 
 i { 
-
+  font-weight:bold;
+  font-style:normal;
 }
 
-b { 
-
+b {
+  font-style:italic;
+  font-weight:normal;
 }

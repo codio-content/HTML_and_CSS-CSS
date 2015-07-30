@@ -43,17 +43,4 @@ In general you will see that most of the time `normal` and `bold` are available 
 
 |||
 
-
-|||Challenge
-# Prank with b's and i's
-In the left treeview, open the stylesheet called `style.css`
-
-In it I would like you to redefine the style for the `<b>` and `<i>` tags.
-
-We want to do a joke for the teacher, so we want the `<b>` tag to display in *italic* and the `<i>` tag to display in **bold** !
-
-When you are done, open the `test.html` and check if it works !
-
-{Check it!! | custom}(test-bui)
-
-|||
+{Check It!|assessment}(test-2534955054)

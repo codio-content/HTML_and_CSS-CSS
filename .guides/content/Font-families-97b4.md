@@ -45,16 +45,4 @@ Here are some examples :
 
 In general don't forget that fonts will look slightly different on different systems and browsers, even if you use the same font.
 
-
-|||Challenge
-# Challenge with font families
-
-Have a look at the code in `index.html`
-
-You will notice that there are h1, h2, h3, h4 tags.
-
-You have to add style to the `style.css` file so that these tags actually have the font-family they are describing!
-
-{Check it!! | custom}(test-bui)
-
-|||
+{Check It!|assessment}(test-811827856)

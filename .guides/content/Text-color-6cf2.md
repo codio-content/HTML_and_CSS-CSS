@@ -48,17 +48,5 @@ Then if you click inside the square, a nice color picker will appear, allowing y
 |:------:|:------:|
 |![Hover](.guides/img/color_hover.png) | ![Color Picker](.guides/img/color_click.png) |
 
-|||Challenge
-# Challenge with colors
 
-On the left bottom there is the preview of `index.html` file. This files links to the `style.css` file which is on the left top part.
-
-Add some styles to the `style.css` in order to have : 
-
-- H1 tags in `red` color
-- H2 tags in `orange` color
-- p tags in `blue` color
-
-{Check it!! | custom}(test-bui)
-
-|||
+{Check It!|assessment}(test-2546310285)

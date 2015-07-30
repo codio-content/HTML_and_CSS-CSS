@@ -38,16 +38,4 @@ We can add some "decorations" to our text like this :
 
 In CSS3 this is a short notation for `text-decoration-line` which is more explicit.
 
-
-|||Challenge
-# Challenge with alignement and decoration
-
-We start again from the same `index.html` file linking to our `style.css`.
-
-Modify our `style.css` so that :
-You have to put the `h1` and `h2` tags with center alignment, forced uppercase and underline.
-And put the `p` tags in left alignment.
-
-{Check it!! | custom}(test-bui)
-
-|||
+{Check It!|assessment}(test-117244244)

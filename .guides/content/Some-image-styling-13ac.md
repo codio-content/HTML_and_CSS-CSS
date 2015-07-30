@@ -42,18 +42,7 @@ You can even target directly only parts of the border or sub properties, for exa
 | `border-top : 3px solid blue;` <br> `border-bottom : 3px solid red;` <br> `border-left : 3px solid yellow;` <br> `border-right : 3px solid green;`  | <div style='border-top : 3px solid blue;border-bottom : 3px solid red;border-left : 3px solid yellow;border-right : 3px solid green;'>Multicolor border</div> |
 | `border-style:solid;` <br> `border-color:blue;` <br> `border-width: 5px 10px 15px 20px;` | <div style='border-style:solid; border-color:blue;border-width: 5px 10px 15px 20px;'>Irregulat border</div> |
 
-
-|||Challenge
-
-In our style.css file you should add style for our img tags, it shoud add a border that should :
-
-- Have 3 px everywhere and be solid.
-- Color should be 'LightGreen'  on top and right.
-- Color should be 'DarkGreen'  on bottom and left.
-
-{Check it!! | custom}(test-bui)
-
-|||
+{Check It!|assessment}(test-4136172481)
 
 
 
