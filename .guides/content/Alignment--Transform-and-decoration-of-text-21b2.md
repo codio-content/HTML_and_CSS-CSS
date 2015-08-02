@@ -1,7 +1,4 @@
-# Alignment, Transform and decoration of text
-
-
-### text-align
+# text-align
 We can specify the alignment of our text with `text-align` :
 
 Here is how to use it :
@@ -13,7 +10,7 @@ Here is how to use it :
 | `text-align:right;` | <div style="text-align:right;">my text</div> |
 
 
-### text-transform
+# text-transform
 
 With this you can force your text in lowercase or uppercase even if it was not originally written like this :
 
@@ -25,7 +22,7 @@ With this you can force your text in lowercase or uppercase even if it was not o
 | `text-transform:lowercase;` | <div style="text-transform:lowercase;">my nice text</div> |
 | `text-transform:capitalize;` | <div style="text-transform:capitalize;">my nice text</div> |
 
-### text-decoration
+# text-decoration
 
 We can add some "decorations" to our text like this :
 

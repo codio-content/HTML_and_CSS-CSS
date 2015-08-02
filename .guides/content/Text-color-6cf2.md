@@ -1,7 +1,5 @@
 Now let's see some details about text styling :
 
-# Text color
-
 To specify the color of our texts, we just use the css `color` property, here are some examples :
 
 | Code | Preview |

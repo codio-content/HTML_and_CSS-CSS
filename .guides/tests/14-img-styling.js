@@ -18,7 +18,6 @@ phantom.create(function (ph) {
         var img = document.querySelector("img");
         var style = getComputedStyle(img,null);
         
-        //errors.push(style.borderBottomColor);
         
         var darkgreen = "rgb(0, 100, 0)";
         var ligthgreen = "rgb(144, 238, 144)";

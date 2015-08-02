@@ -1,5 +1,3 @@
-# Inheritance
-
 Lets visualize our `index.html` in a tree form :
 
 <iframe  width="100%" height="45%" src="tree/tree.html#url=/5-inline-style/index.html" frameborder="0" allowfullscreen></iframe>

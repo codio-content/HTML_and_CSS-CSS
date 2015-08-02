@@ -1,5 +1,3 @@
-# Inline style
-
 Let's look at our `index.html` in the left code editor.
 
 Inside the `<head>` of the document add :

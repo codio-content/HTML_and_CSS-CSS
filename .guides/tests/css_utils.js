@@ -40,6 +40,22 @@ Astobj.prototype.get_declarations_for_selector = function(selector) {
   return _.flatten(declarations);
 }
 
+Astobj.prototype.selector_has_property_anyvalue = function(selector, property) {
+
+  var declarations = this.get_declarations_for_selector(selector);
+  
+  var found = _.find(declarations,function(decl) {
+     if (decl.property == property) {
+       return true;
+     } else {
+       return false;
+     }
+  });
+  
+  return (found !== undefined);
+  
+}
+
 
 Astobj.prototype.selector_has_property = function(selector, property, property_value) {
 

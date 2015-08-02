@@ -1,6 +1,4 @@
-# Font styles and weights
-
-### font-style
+# font-style
 
 This property allows you to put you text in italic as we did with the `<i>` tags before but directly from css. The difference between `italic` and `oblique` here under is that the first one is that `italic` version of a font, created by the font designer and `oblique` is just the normal font inclined a bit. In general it's better to use `italic`.
 
@@ -11,7 +9,7 @@ This property allows you to put you text in italic as we did with the `<i>` tags
 | `font-style:oblique;` | <div style="font-style:oblique;">my text</div> |
 
 
-### font-weight
+# font-weight
 
 After seeing how to do italic in css, let's see how to do bold without the `<b>` tag. The font-weight property does exactly that, it can have either textual values or numerical values as we will see in the table here under.
 

@@ -1,5 +1,3 @@
-# Font families
-
 Fonts in the web are a difficult problem. The difficulty come from the fact that a font might or not be available on a computer. The fonts are system-based, meaning they are a part of windows/mac/linux. So it's almost impossible to know if a font will be available or not on every computer.
 
 Their are 2 ways it is solved :
