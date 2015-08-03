@@ -41,6 +41,6 @@ So anything inside the body would receive Arial font.
 
 Let's see, how it would look like in our tree view of the document :
 
-<iframe  width="100%" height="40%" src="/tree/tree.html#url=doc1.html&selected=body" frameborder="0" allowfullscreen></iframe>
+![](.guides/img/iframe6.png)
 
 Not only is this notation simpler and shorter but also what would happen if we were using the previous notation and somebody decides to add a `<h3>` tag ? We would have to modify our stylesheet to add styling for our `<h3>` tag otherwise it would have a different font than the rest of the document.

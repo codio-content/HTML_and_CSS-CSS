@@ -339,9 +339,6 @@
    ]
   }
  ],
- "theme": "charcoal",
- "scripts": [
-  "https://code.jquery.com/jquery-1.11.3.min.js",
-  ".guides/webdevcourse.js"
- ]
+ "theme": "light",
+ "scripts": []
 }
