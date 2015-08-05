@@ -1,16 +1,14 @@
-Fonts in the web are a difficult problem. The difficulty come from the fact that a font might or not be available on a computer. The fonts are system-based, meaning they are a part of windows/mac/linux. So it's almost impossible to know if a font will be available or not on every computer.
+Handling fonts on the web is a difficult problem. The difficulty come from the fact that a font might not be available on the client computer. The fonts are system-based, meaning they are a part of Windows/Mac/Linux. 
 
 Their are 2 ways it is solved :
 
 1) Use the so called "web-safe" fonts (ones that are supposedly available on all systems) and provide a list of fonts instead of just one.
 
-2) Make the browser load a webfont directly so you will be sure it's available, a "webfont" is a special version of a font that is downloadable and usable by the web browsers.
-
-We will not see in this unit the second option as it is a bit more complicated and will be loaded later.
+2) Make the browser load a webfont directly so you will be sure it's available, a "webfont" is a special version of a font that is downloadable and usable by the web browsers. We will not see the second option in this unit as it is a bit more complicated.
 
 Let's see how to use the first option :
 
-The css property is called `font-family` and is used to declare what font you want. In general you declare multiple options separated by a `,` so the browser will try the first in the list, it he finds it on the system, he will use it, otherwise he will try the next one in the list .. and so on. Moreover in general you start with a specific font in the list and continues going to less specific and ending up with a generic font family.
+The css property is called `font-family` and is used to declare what font you want. In general you declare multiple options separated by a `,` so the browser will try the first in the list, it it finds it on the system, it will use it, otherwise it will try the next one in the list and so on. Moreover in general you start with a specific font in the list and continues going to less specific and ending up with a generic font family.
 
 Here are the generic font families :
 

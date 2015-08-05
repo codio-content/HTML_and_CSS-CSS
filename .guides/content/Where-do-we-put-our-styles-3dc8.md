@@ -1,4 +1,4 @@
-Now that we have seen what is CSS and how it's structured, let see where and how to add it to our html pages, there are 3 options :
+Now that we have seen what CSS is and how it's structured, let see where and how to add it to our html pages, there are 3 options:
 
 * In a separate CSS file, that we will reference from our HTML document.
 * Inside `<style>  </style>` tags in the head of our HTML document.

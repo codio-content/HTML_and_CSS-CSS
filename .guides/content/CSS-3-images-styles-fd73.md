@@ -1,6 +1,6 @@
 # Adding some cool CSS3 styles
 
-CSS3 give us many more properties to play with and have nice visual effects in our web pages. A later lesson will be devoted to CSS3 .. Until then, here are 2 very useful properties :
+CSS3 give us many more properties to play with that can add nice visual effects to our web pages. A later lesson will be devoted to CSS3 but until then here are 2 very useful properties:
 
 # Rounded corners
 
@@ -20,7 +20,7 @@ You can even push it further and put `200px` and it will look like a nice "pill"
 
 # Shadows !
 
-Now let's add some shadows to our image, add the following to our css for `img` tag.
+Now let's add some shadows to our image, add the following to our CSS for the `img` tag.
 
 ```css
 box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7); 
@@ -38,7 +38,7 @@ Where the two first are mandatory parameters, here are the details on each of th
 <tr><td> h-pos </td> <td> Horizontal position of the shadow.</td></tr>
 <tr><td> v-pos </td> <td> Vertical position of the shadow.</td></tr>
 <tr><td> blur </td> <td> Size of the blur of the shadow.</td></tr>
-<tr><td> spread </td> <td> Size of the shadow itself.</td></tr>
+<tr><td> spread </td> <td> Size of the shadow.</td></tr>
 <tr><td> color </td> <td> Color of the shadow.</td></tr>
 <tr><td> inset </td> <td> If value "inset" is set there it means the shadow will be internal to the element and not external.</td></tr>
 </table>
