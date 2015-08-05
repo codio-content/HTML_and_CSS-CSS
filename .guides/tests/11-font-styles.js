@@ -1,6 +1,6 @@
 var fs = require('fs');
 var util = require('util');
-var cssutils = require('./css_utils.js');
+var cssutils = require('codio-css-utils');
 
 var errors = [];
 var basepath = '/home/codio/workspace';

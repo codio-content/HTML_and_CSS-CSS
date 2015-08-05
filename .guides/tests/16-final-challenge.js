@@ -1,6 +1,6 @@
 var fs = require('fs');
 var phantom = require('phantom');
-var cssutils = require('./css_utils.js');
+var cssutils = require('codio-css-utils');
 
 var box_domain = process.env.CODIO_BOX_DOMAIN;
 var fullurl = "http://"+ box_domain + "/16-challenge/index.html";
