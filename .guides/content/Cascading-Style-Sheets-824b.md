@@ -32,6 +32,18 @@ h1 {
 
 |||
 
+## Play with it
+
+On the top left there is a very simple css file.
+On the bottom left a preview of an html file using this css.
+
+Trying changing the `example.css` to see how it affects the page !
+
+For example, on line 3, change the code to : `font-size:48px;`. Then hit the refresh button on the bottom window and see the result !
+
+You can continue and try changing other things ...
+
+When you are done let's continue with some history about CSS.
 
 # Different css versions
 

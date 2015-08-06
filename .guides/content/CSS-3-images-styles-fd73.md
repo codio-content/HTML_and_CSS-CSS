@@ -6,7 +6,7 @@ CSS3 give us many more properties to play with that can add nice visual effects 
 
 Now let's make our images corners more rounded, because it's nicer!
 
-Remove all the styles you put on the img tag and let's start over, now add this style on the img tags :
+In the top left window, add this style on the img tags :
 
 ```css
 border-radius: 30px;

@@ -14,33 +14,99 @@
   {
    "id": "824b867a-4844-ca37-183-afec1fd248a2",
    "title": "Cascading Style Sheets",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "2-cascading-style-sheets/example.css",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 2-cascading-style-sheets/example.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "2-cascading-style-sheets"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Cascading-Style-Sheets-824b.md",
    "chapter": false,
-   "reset": []
+   "reset": [
+    "2-cascading-style-sheets"
+   ]
   },
   {
    "id": "3dc87ddb-719-55e-458-ef4aefde08b",
    "title": "Where do we put our styles",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "3-where/separate.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "3-where/separate.css",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "",
+     "panel": 0,
+     "ref": "",
+     "lineCount": null,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "3-where"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Where-do-we-put-our-styles-3dc8.md",
    "chapter": false,
-   "reset": []
+   "reset": [
+    "3-where"
+   ]
   },
   {
    "id": "449ebde6-8fb4-2b96-e5fd-cb3a6308c1e",
    "title": "Demo",
-   "files": [],
-   "layout": "",
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "4-demo/raw.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 4-demo/raw.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "4-demo"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Demo-449e.md",
    "chapter": false,
-   "reset": []
+   "reset": [
+    "4-demo"
+   ]
   },
   {
    "id": "80f79dd-ce71-9d44-6403-f68ee087a7d6",
@@ -136,6 +202,10 @@
    "id": "21b266c3-830f-86b7-10b0-70b0903720a2",
    "title": "Alignment, Transform and decoration of text",
    "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
     {
      "path": "10-alignment/index.html",
      "panel": 0,
@@ -273,12 +343,12 @@
     },
     {
      "path": "#preview: 14-img-styling/image.html",
-     "panel": 0,
+     "panel": 1,
      "action": "open"
     },
     {
      "path": "14-img-styling/style.css",
-     "panel": 1,
+     "panel": 0,
      "action": "open"
     }
    ],
@@ -296,12 +366,32 @@
   {
    "id": "fd737a97-3c9c-d4c2-8808-ddf855fc1759",
    "title": "CSS 3 images styles",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "15-css3-image-styles/style.css",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 15-css3-image-styles/image.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "15-css3-image-styles"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/CSS-3-images-styles-fd73.md",
    "chapter": false,
-   "reset": []
+   "reset": [
+    "15-css3-image-styles"
+   ]
   },
   {
    "id": "c5131ec8-2028-c9a8-9f08-bcea544c34a1",

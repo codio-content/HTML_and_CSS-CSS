@@ -1,27 +1,12 @@
-Before continuing, I'd like to demonstrate the power of css! Let's see how css was used to do the tree view of an html document that we used in the previous section.
+Before continuing, I'd like to demonstrate the power of css!
 
-Imagine we have this html code :
-```html
-    <h1> some title </h1>
-    <p> some text </p>
-    
-    <h1> another title </h1>
-    <p> another text</p>
-    
-    <h1> our last title</h1>
-    <p> and our last text</p>
-```
-
+Have a look at the `raw.html` file on the top left code window.
 Nothing fancy, just some titles and some texts.
-If we display it without any styling, it should look like this :
 
-![Tree empty](.guides/img/iframe1.png)
+It is displayed without any styling in the bottom left window.
 
+Now let see what could be done with some css, so we kept exactly the same html structure and just added css .. [Click here](open_preview 4-demo/css1.html panel=1) to preview it .
 
-Now let see what could be done with css, so we keep exactly the same structure and just add css.Now
+And if we are even more crazy we can add a lot more css ! [Click here](open_preview 4-demo/css2.html panel=1) to preview it (try to put your mouse over the different elements ...)
 
-![With style 1](.guides/img/iframe2.png)
-
-And now we can get really crazy ! :
-
-![With style 2](.guides/img/iframe3.png)
+So from the same html markup we get totally different looking and behaving results ! That's the power of css ..
