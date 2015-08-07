@@ -42,6 +42,17 @@
    ]
   },
   {
+   "id": "c42b412e-cbbc-4b6-241-bf3a78a2de8",
+   "title": "CSS versions",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CSS-versions-c42b.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
    "id": "3dc87ddb-719-55e-458-ef4aefde08b",
    "title": "Where do we put our styles",
    "files": [
@@ -57,13 +68,6 @@
     {
      "path": "3-where/separate.css",
      "panel": 1,
-     "action": "open"
-    },
-    {
-     "path": "",
-     "panel": 0,
-     "ref": "",
-     "lineCount": null,
      "action": "open"
     }
    ],
@@ -227,7 +231,7 @@
     "10-alignment"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Alignment--Transform-and-decoration-of-text-21b2.md",
+   "content-file": ".guides/content/More-text-styling-21b2.md",
    "chapter": true,
    "reset": [
     "10-alignment"
@@ -297,6 +301,26 @@
    "reset": [
     "12-font-families"
    ]
+  },
+  {
+   "id": "c2acca11-aedc-821f-936d-4aa2862b7d02",
+   "title": "System fonts and web-safe fonts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/System-fonts-and-web-safe-fonts-c2ac.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "94a6474a-6b1-59ab-4b51-9b79f8b6ccf9",
+   "title": "Web fonts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Web-fonts-94a6.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "dda870ec-4a63-279b-7b11-9233e5c5c0de",
