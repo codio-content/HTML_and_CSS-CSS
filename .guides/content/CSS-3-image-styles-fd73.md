@@ -32,7 +32,8 @@ Here are the parameters of `box-shadow` :
 box-shadow: h-pos v-pos (blur) (spread) (color) (inset);
 ```
 
-Where the first two are mandatory parameters.
+Where the first two are mandatory parameters (As a general rule when parameters are in brackets in documentation, it means they are optional).
+
 Here are the details on each of those parameters :
 
 <table>

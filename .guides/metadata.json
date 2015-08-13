@@ -155,18 +155,56 @@
   {
    "id": "21ba95e7-9c89-e21b-b4aa-5b40e734a972",
    "title": "Grouping styles",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "8-grouping/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 8-grouping/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "8-grouping"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Grouping-styles-21ba.md",
    "chapter": false,
-   "reset": []
+   "reset": [
+    "8-grouping"
+   ]
   },
   {
    "id": "a2df190c-37f7-9d06-2bf9-2631db27df43",
    "title": "CSS File",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "css-file/style.css",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "css-file/index.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "css-file"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/CSS-File-a2df.md",
    "chapter": false,
@@ -221,7 +259,7 @@
      "action": "open"
     },
     {
-     "path": "10-alignment/index.html",
+     "path": "#preview: 10-alignment/index.html",
      "panel": 1,
      "action": "open"
     }
@@ -276,12 +314,12 @@
      "action": "close"
     },
     {
-     "path": "12-font-families/index.html",
+     "path": "12-font-families/style.css",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "12-font-families/style.css",
+     "path": "12-font-families/index.html",
      "panel": 0,
      "action": "open"
     },
@@ -329,6 +367,26 @@
     {
      "path": "#tabs",
      "action": "close"
+    }
+   ],
+   "layout": "1-panel-tree",
+   "path": [
+    "13-font-size"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Font-size-and-units-dda8.md",
+   "chapter": true,
+   "reset": [
+    "13-font-size"
+   ]
+  },
+  {
+   "id": "3e3f1408-dc90-2b62-acca-86bb35e35e9b",
+   "title": "Font size challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
     },
     {
      "path": "13-font-size/index.html",
@@ -346,13 +404,13 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "3-cell-tree",
    "path": [
     "13-font-size"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Font-size-and-units-dda8.md",
-   "chapter": true,
+   "content-file": ".guides/content/Font-size-challenge-3e3f.md",
+   "chapter": false,
    "reset": [
     "13-font-size"
    ]
@@ -389,7 +447,7 @@
   },
   {
    "id": "fd737a97-3c9c-d4c2-8808-ddf855fc1759",
-   "title": "CSS 3 images styles",
+   "title": "CSS 3 image styles",
    "files": [
     {
      "path": "#tabs",

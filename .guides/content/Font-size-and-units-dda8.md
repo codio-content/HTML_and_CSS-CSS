@@ -25,7 +25,7 @@ Now there are two other textual values but they are different
 
 These will set the font size to a larger/smaller font size than the parent element of the targeted element.
 
-If you want to use a font size that depends from the parent size, you can also use a numerical `%` value and it will set the size as the specified pourcentage of the size of the parent element.
+If you want to use a font size that depends from the parent size, you can also use a numerical `%` value and it will set the size as the specified percentage of the size of the parent element.
 
 | Code | Preview |
 |:----:|:------: |
@@ -38,7 +38,7 @@ You can also use fixed numerical values for the `font-size` but before that we n
 
 ### font-size units
 
-**(em)**: The “em” is a scalable unit that is used in web document media. An em is equal to the current font-size, for instance, if the font-size of the document is 12pt, 1em is equal to 12pt. Ems are scalable in nature, so 2em would equal 24pt, .5em would equal 6pt, etc. Ems are becoming increasingly popular in web documents due to scalability and their mobile-device-friendly nature.
+**(em)**: The “em” is a scalable unit that is used in web document media. An em is equal to the current font-size, for instance, if the font-size of the document is 12pt, 1em is equal to 12pt. Ems are scalable in nature, so 2em would equal 24pt, .5em would equal 6pt, etc. em's are becoming increasingly popular in web documents due to scalability and their mobile-device-friendly nature.
 
 **(px)**: Pixels are fixed-size units that are used in screen media (i.e. to be read on the computer screen). One pixel is equal to one dot on the computer screen (the smallest division of your screen’s resolution). Many web designers use pixel units in web documents in order to produce a pixel-perfect representation of their site as it is rendered in the browser. One problem with the pixel unit is that it does not scale upward for visually-impaired readers or downward to fit mobile devices.
 
@@ -56,5 +56,3 @@ Let's see the difference in action, the first column represents the case when th
 | `font-size:12pt;` |<span style="font-size:12pt;"> A nice text </span>  | <span style="font-size:12pt;"> A nice text </span> |
 
 You can see that the 2 first rows change as the body font size changes. The last 3 columns do not change when the body font size changes.
-
-{Check It!|assessment}(test-983659498)

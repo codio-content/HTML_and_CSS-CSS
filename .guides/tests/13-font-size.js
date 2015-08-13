@@ -25,7 +25,7 @@ if (ast.ast == undefined) {
       errors.push("h3 doesnt have the correct font size in %");
     }
   
-    if (!ast.selector_has_property("h4","font-size","100%")) {
+    if (!ast.selector_has_property("h4","font-size","150%")) {
       errors.push("h4 doesnt have the correct font size in %");
     }
   

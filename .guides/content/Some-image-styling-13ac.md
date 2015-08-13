@@ -1,4 +1,4 @@
-Let's have a look at the preview of `image.html` on the top left, it displays pictures of cute animals. This html file is referencing the `style.css` that we will be changing. Everytime we change the `style.css` file on bottom left, don't forget to refresh the preview to see your changes.
+Let's have a look at the preview of `image.html` on the bottom left, it displays pictures of cute animals. This html file is referencing the `style.css` that we will be changing. Everytime we change the `style.css` file on top left, don't forget to refresh the preview to see your changes.
 
 # Adding some borders
 
@@ -43,6 +43,25 @@ You can even target directly only parts of the border or sub properties, for exa
 | `border-style:solid;` <br> `border-color:blue;` <br> `border-width: 5px 10px 15px 20px;` | <div style='border-style:solid; border-color:blue;border-width: 5px 10px 15px 20px;'>Irregulat border</div> |
 
 {Check It!|assessment}(test-4136172481)
+
+
+|||guidance
+
+Solution : 
+
+```css
+img {
+  margin-bottom:30px;
+  border-width:3px;
+  border-style:solid;
+  border-left-color:darkgreen;
+  border-bottom-color:darkgreen;
+  border-right-color:lightgreen;
+  border-top-color:lightgreen;
+}
+```
+
+|||
 
 
 

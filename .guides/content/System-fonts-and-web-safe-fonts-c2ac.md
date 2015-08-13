@@ -1,6 +1,6 @@
 Let's see how to use system fonts (and web-safe fonts)
 
-The css property is called `font-family` and is used to declare what font you want. In general you declare multiple options separated by a `,` so the browser will try the first in the list, it it finds it on the system, it will use it, otherwise it will try the next one in the list and so on. Moreover in general you start with a specific font in the list and continues going to less specific and ending up with a generic font family.
+The css property is called `font-family` and is used to declare what font you want. In general you declare multiple options separated by a `,` so the browser will try the first in the list, if it finds it on the system, it will use it, otherwise it will try the next one in the list and so on. Moreover in general you start with a specific font in the list and continue going to less specific fonts and ending up with a generic font family.
 
 Here are the generic font families :
 
@@ -18,7 +18,7 @@ serif
 | `font-family:sans-serif;` | <div style="font-family:sans-serif;">A white rabbit and a red fox</div> |
 | `font-family:serif;` | <div style="font-family:serif;">A white rabbit and a red fox</div> |
 
-But using a family doesn't guarantee you what font you will end up with, it's just guarantee you it will take one font in this family
+But using a family doesn’t guarantee what font you will end up with, it just guarantees it will take one font in this family
 
 When you want a specific font you should declare it first and then end up with a generic family just in case.
 

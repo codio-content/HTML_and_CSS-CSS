@@ -36,3 +36,31 @@ We can add some "decorations" to our text like this :
 In CSS3 this is a short notation for `text-decoration-line` which is more explicit.
 
 {Check It!|assessment}(test-117244244)
+
+|||guidance
+
+Solution:
+
+```css
+
+h1 {
+  text-align:center;
+  text-decoration:underline;
+  text-transform:uppercase;
+}
+
+h2 {
+  text-align:center;
+  text-decoration:underline;
+  text-transform:uppercase;
+}
+
+p {
+  text-align:left;
+}
+
+```
+
+
+|||
+

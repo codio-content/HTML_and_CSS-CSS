@@ -1,8 +1,8 @@
-Nowadays people are used to have very sophisticated fonts in webpages. As these fonts are not available on everyone's computers, they have to be loaded by the browser from the internet when the page displays.
+Nowadays people are used to having very sophisticated fonts in webpages. As these fonts are not always available on everyone’s computers, they have to be loaded by the browser from the internet when the page displays.
 
 Until recently using webfonts was a very tedious process. It involved choosing which subset of the font to use, converting it in various formats for the different browsers, then referencing them in a stylesheet and finally using them.
 
-Recently, Companies simplified this process for us by creating catalogs of pre-made webfonts. Particularely Google has a catalog of free webfonts that anyone can use in their webpages (Normal fonts are often expensive and have restrictive licences).
+Recently, Companies simplified this process for us by creating catalogs of pre-made webfonts. Particularly Google has a catalog of free webfonts that anyone can use in their webpages (Normal fonts are often expensive and have restrictive licences).
 
 In order to use a google webfont, there are 2 steps :
 
@@ -36,3 +36,17 @@ Attention : Altough in this challenge we use 4 different webfonts it is recommen
 
 
 {Check It!|assessment}(test-811827856)
+
+|||guidance
+
+Solution :
+
+```css
+h1 { font-family : Indie Flower; }
+h2 { font-family : Lobster; }
+h3 { font-family : Poiret One; }
+h4 { font-family : Dancing Script; }
+```
+
+|||
+

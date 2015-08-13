@@ -12,7 +12,7 @@ To specify the color of our texts, we just use the css `color` property, here ar
 
 These are 3 different ways of defining colors in CSS :
 
-The first one is the textual one and you can choose between a long list of color names, here is the [list](http://www.w3schools.com/cssref/css_colornames.asp) 
+The first one is the textual one and you can choose between a long list of color names, here is the [list](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) 
 
 The second one is called "hexadecimal" notation, and is structured like this :
 
@@ -48,3 +48,26 @@ Then if you click inside the square, a nice color picker will appear, allowing y
 
 
 {Check It!|assessment}(test-2546310285)
+
+|||guidance
+
+Solution:
+
+```css
+
+h1 {
+  color:red;
+}
+
+h2 {
+  color:orange;
+}
+
+p {
+  color:blue;
+}
+
+```
+
+|||
+

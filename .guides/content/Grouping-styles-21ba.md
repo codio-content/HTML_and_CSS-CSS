@@ -2,21 +2,11 @@ Now let's try to use inheritance to our advantage. Imagine we want to apply a ce
 How would we do that ? We have text inside `<h1>`, `<h2>`, `<p>`, `<b>`, `<i>` tags so we could write some css like this :
 
 ```css
-h1 {
-    font-family:Arial;
-}
-h2 {
-    font-family:Arial;
-}
-p {
-    font-family:Arial;
-}
-b {
-    font-family:Arial;
-}
-i {
-    font-family:Arial;
-}
+h1 { font-family:Arial; }
+h2 { font-family:Arial; }
+p { font-family:Arial; }
+b { font-family:Arial; }
+i { font-family:Arial; }
 ```
 
 Or if we use a shorter notation :
