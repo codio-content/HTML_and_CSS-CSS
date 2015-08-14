@@ -469,7 +469,7 @@
     "15-css3-image-styles"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/CSS-3-images-styles-fd73.md",
+   "content-file": ".guides/content/CSS-3-image-styles-fd73.md",
    "chapter": false,
    "reset": [
     "15-css3-image-styles"
@@ -509,8 +509,20 @@
    "reset": [
     "16-challenge"
    ]
+  },
+  {
+   "id": "218d6d3-a9e5-a046-30d1-4be68e42413d",
+   "title": "That's all folks",
+   "files": [],
+   "layout": "1-panel-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/That-s-all-folks-218d.md",
+   "chapter": true,
+   "reset": []
   }
  ],
  "theme": "light",
- "scripts": []
+ "scripts": [],
+ "lexikonTopic": ""
 }

@@ -1,10 +1,8 @@
-Let's add an external css file now !
-
 In the previous section we have been adding our style into the `<head>` of the document. This works very well, but doesn't allow us to share one style sheet for multiple html pages.In
 
 We have created a file called `index.html`, as well as a stylesheet called `style.css`.
 
-In order to tell the browser to load our `style.css` file along when it load `index.html` we need to add a tag in the head of our html document. 
+In order to tell the browser to load our `style.css` file as well when it loads the `index.html` we need to add a tag in the head of our html document. 
 
 This time it will be a `link` tag and it should be like this :
 
@@ -13,7 +11,10 @@ This time it will be a `link` tag and it should be like this :
 ```
 
 Let's analyse this tag in detail :
-So we are "link"ing something to our html document, in this case the relation `rel="stylesheet"` tells the browser we are linking to a stylesheet and the `type="text/css"` means the document is of type `text/css` (CSS is just plain text), finally as we have seen for the `<a>` tags, the `href` attributes gives the browser the "hyper-reference" which is basically its address, where to find the document.So
+So we are "link"ing something to our html document :
+- The relation `rel="stylesheet"` tells the browser we are linking to a stylesheet.
+- The `type="text/css"` means the document is of type `text/css` (CSS is just plain text)
+- Finally as we have seen for the `<a>` tags, the `href` attributes gives the browser the "hyper-reference" which is basically its address, where to find the document.
 
 {Check It!|assessment}(test-1436869713)
 
