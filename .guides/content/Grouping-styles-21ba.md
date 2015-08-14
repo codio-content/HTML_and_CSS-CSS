@@ -17,7 +17,7 @@ h1, h2, p, b, i {
 }
 ```
 
-The comma in a css selector means "or". So `h1, h2, p, b, i` means : Apply the styles to `h1` or `h2` or `p` or `b` o `i`, so to any of those.
+The comma in a css selector means "or". So `h1, h2, p, b, i` means : Apply the styles to `h1` or `h2` or `p` or `b` o `i`, to any of those.
 
 But using the power of inheritance, we could just write :
 
@@ -29,7 +29,7 @@ body {
 
 So anything inside the body would receive Arial font.
 
-Let's see, how it would look like in our tree view of the document :
+Let's see how it would look like in our tree view of the document :
 
 ![](.guides/img/iframe6.png)
 
