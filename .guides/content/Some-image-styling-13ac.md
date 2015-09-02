@@ -1,4 +1,4 @@
-Let's have a look at the preview of `image.html` on the bottom left, it displays pictures of cute animals. This html file is referencing the `style.css` that we will be changing. Everytime we change the `style.css` file on top left, don't forget to refresh the preview to see your changes.
+Let's have a look at the preview of `image.html` on the bottom left, it displays pictures of cute animals. This HTML file is referencing the `style.css` that we will be changing. Everytime we change the `style.css` file on top left, don't forget to refresh the preview to see your changes.
 
 # Adding some borders
 
@@ -40,7 +40,7 @@ You can even target directly only parts of the border or sub properties, for exa
 |:----|:------: |
 | `border-style : solid;`<br>`border-width:3px;`<br>`border-color:red;` | <div style='border-style:solid; border-width:3px;border-color:red;'>With solid red border</div> |
 | `border-top : 3px solid blue;` <br> `border-bottom : 3px solid red;` <br> `border-left : 3px solid yellow;` <br> `border-right : 3px solid green;`  | <div style='border-top : 3px solid blue;border-bottom : 3px solid red;border-left : 3px solid yellow;border-right : 3px solid green;'>Multicolor border</div> |
-| `border-style:solid;` <br> `border-color:blue;` <br> `border-width: 5px 10px 15px 20px;` | <div style='border-style:solid; border-color:blue;border-width: 5px 10px 15px 20px;'>Irregulat border</div> |
+| `border-style:solid;` <br> `border-color:blue;` <br> `border-width: 5px 10px 15px 20px;` | <div style='border-style:solid; border-color:blue;border-width: 5px 10px 15px 20px;'>Irregular border</div> |
 
 {Check It!|assessment}(test-4136172481)
 

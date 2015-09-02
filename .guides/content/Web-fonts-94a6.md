@@ -30,7 +30,7 @@ Then if you go a bit lower you will see the name of the font to use in your css,
 
 ![](.guides/img/google-font-3.png)
 
-In the next challenge we have already preselected 4 fonts from google and they were added to your html document for you.
+In the next challenge we have already preselected 4 fonts from google and they were added to your HTML document for you.
 
 Attention : Altough in this challenge we use 4 different webfonts it is recommended in real web pages not to load too many differents fonts, loading them can take a long time on slower internet connections and thus will result in a bad user experience ...
 

@@ -1,6 +1,6 @@
 Now let's see some details about text styling :
 
-To specify the color of our texts, we just use the css `color` property, here are some examples :
+To specify the color of our texts, we just use the CSS `color` property, here are some examples :
 
 | Code | Preview |
 |:----:|:------: |
@@ -30,9 +30,9 @@ If you don't know what is hexadecimal or want to know more about hexadecimal col
 
 Finally , the last notation `rgb(255,0,0)` allow you to define the r g and b components using values from 0 to 255 and is quite self explanatory.
 
-Hopefully, with Codio you dont have to search on the web or do the calculations yourself, just click a color in a css file in codio and it will give you a convenient color picker that will let you choose your color visually.
+Hopefully, with Codio you dont have to search on the web or do the calculations yourself, just click a color in a CSS file in codio and it will give you a convenient color picker that will let you choose your color visually.
 
-For that just type in a css file :
+For that just type in a CSS file :
 
 ```css
 color:#fff;
@@ -40,7 +40,7 @@ color:#fff;
 
 then put your mouse over `#fff` and a little square will appear like this showing the white color (step 1). 
 
-Then if you click inside the square, a nice color picker will appear, allowing you to choose your color visually, when you are done it will output the correct code inside your css (step 2).
+Then if you click inside the square, a nice color picker will appear, allowing you to choose your color visually, when you are done it will output the correct code inside your CSS (step 2).
 
 | step 1 | step 2 |
 |:------:|:------:|

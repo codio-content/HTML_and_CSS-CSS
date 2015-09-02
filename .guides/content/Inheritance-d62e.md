@@ -2,7 +2,7 @@ Lets visualize our `index.html` in a tree form :
 
 ![](.guides/img/iframe4.png)
 
-It is yet another way of seeing the html document.
+It is yet another way of seeing the HTML document.
 
 Now let's try to visualize what elements are affected when we write :
 
@@ -13,7 +13,7 @@ p {
 }
 ```
 
-Here is the same tree view of the html document, with the elements affected by the previous CSS highlighted in green :
+Here is the same tree view of the HTML document, with the elements affected by the previous CSS highlighted in green :
 
 ![](.guides/img/iframe5.png)
 

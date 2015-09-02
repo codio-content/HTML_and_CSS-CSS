@@ -6,7 +6,7 @@ Solution :
 
 ```css
 body {
-    font-size:12px
+    font-size:12px;
 }
 
 h1 {
