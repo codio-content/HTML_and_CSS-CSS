@@ -544,7 +544,12 @@
   {
    "id": "218d6d3-a9e5-a046-30d1-4be68e42413d",
    "title": "That's all folks",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel-tree",
    "path": [],
    "type": "markdown",
