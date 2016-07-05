@@ -1,0 +1,130 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-117244244",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Challenge with alignement and decoration",
+   "instructions": "We start again from the same `index.html` file linking to our `style.css`.\n\nModify our `style.css` so that :\nYou have to put the `h1` and `h2` tags with center alignment, forced uppercase and underline.\nAnd put the `p` tags in left alignment.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/10-alignment.js",
+   "points": 2
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1436869713",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Add a link to your stylesheet",
+   "instructions": "In the `index.html` file you are asked to add a link to our stylesheet (`style.css`).\n\nIn the head, after the title, add the link to the stylesheet as described above.\n\nGood luck !",
+   "command": "bash .guides/tests/exec.sh .guides/tests/9-css-file.js",
+   "points": 3
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2534955054",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Prank with b’s and i’s",
+   "instructions": "In the top left file `style.css` :\nWe would like you to redefine the style for the `<b>` and `<i>` tags.\n\nWe want to do a joke for the teacher, so we want the `<b>` tag to display in *italic* and the `<i>` tag to display in **bold** !\n\nWhen you are done, open the `test.html` and check if it works !",
+   "command": "bash .guides/tests/exec.sh .guides/tests/11-font-styles.js",
+   "points": 3
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2546310285",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Challenge with colors",
+   "instructions": "On the left bottom there is the preview of `index.html` file. This files links to the `style.css` file which is on the left top part.\n\nAdd some styles to the `style.css` in order to have : \n\n- h1 tags in `red` color\n- h2 tags in `orange` color\n- p tags in `blue` color\n",
+   "command": "bash .guides/tests/exec.sh .guides/tests/9-text-color.js",
+   "points": 2
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3641739047",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "My big page",
+   "instructions": "You have been given a `index.html` file and a CSS file called `style.css` that is referenced from the `index.html`. They are open on the top left. You can see a preview of the index on the bottom left.\n\nYou are required to:\n\n1) Put a font `Arial, sans-serif;` on all the texts using inheritance.\n2) Put a `h1` tag with title \"My big page\"\n3) Style the `h1` tag so that it is orange, centred and force uppercase on it.\n4) Put two paragraphs underneath it with random text.\n5) Style those paragraphs so that they are blue and left aligned.\n6) Underneath that, include the 3 images that you will find in the img directory.\n7) Finally, put rounded corners on this images and some shadow.\n\nThe final result should look something like this :\n![](.guides/img/final-result.png)\n\nGood luck !\n",
+   "command": "bash .guides/tests/exec.sh .guides/tests/16-final-challenge.js",
+   "points": 10
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4136172481",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Image borders",
+   "instructions": "In our style.css file you should add style for our img tags. \nThe style must :\n- Have a solid border of 3 px everywhere.\n- The color of the border should be 'LightGreen'  on top and right.\n- The color of the border should be 'DarkGreen'  on bottom and left.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/14-img-styling.js",
+   "points": 5
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-811827856",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Challenge with font families",
+   "instructions": "Have a look at the code in `index.html`\n\nYou will notice that there are h1, h2, h3, h4 tags.\nThey contain the names of the google fonts we have selected.\n\nYou have to add style to the `style.css` file so that these tags actually have the font-family they are describing!\n",
+   "command": "bash .guides/tests/exec.sh .guides/tests/12-font-families.js",
+   "points": 3
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-983659498",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Challenge with font sizes and units",
+   "instructions": "Take a look at the `index.html` file, it has again h1, h2, h3, h4. \n\nIf you have a look at `style.css` you will see that we defined some styles for this. The sizes are in pixels (px) and you asked to replace it by `%` but still get to the same size.\n\nThe body size is `12px` , so change the css for the h1, h2, h3, h4 using `%` instead of `px`.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/13-font-size.js",
+   "points": 3
+  }
+ }
+]
