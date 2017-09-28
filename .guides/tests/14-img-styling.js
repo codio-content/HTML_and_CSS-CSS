@@ -9,12 +9,10 @@ app.listen(1024);
 var fullurl = "http://localhost:1024/14-img-styling/image.html";
 var errors = [];
 
-console.log(fullurl);
 
 phantom.create(function (ph) {
   ph.createPage(function (page) {
     page.open(fullurl, function (status) {
-      console.log("opened ? ", status);
       page.evaluate(function () {
 
         var errors =  [];
@@ -50,10 +48,7 @@ phantom.create(function (ph) {
         }
 
         return errors;
-        
-      
       }, function (retErrors) {
-        
         if (!retErrors) {
           process.stdout.write("There was a problem running the test");
           ph.exit();
@@ -70,7 +65,6 @@ phantom.create(function (ph) {
             process.exit(1);
           }
         }
-        
       });
     });
   });
