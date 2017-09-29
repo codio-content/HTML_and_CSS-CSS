@@ -1,24 +1,25 @@
 var fs = require('fs');
 var phantom = require('phantom');
 
-var box_domain = process.env.CODIO_BOX_DOMAIN;
-var fullurl = "http://"+ box_domain + "/14-img-styling/image.html";
+var express = require('express');
+var app = express();
+app.use(express.static('/home/codio/workspace'));
+app.listen(1024);
+
+var fullurl = "http://localhost:1024/14-img-styling/image.html";
 var errors = [];
 
-//console.log(fullurl);
 
 phantom.create(function (ph) {
   ph.createPage(function (page) {
     page.open(fullurl, function (status) {
-      //console.log("opened ? ", status);
-      page.evaluate(function () { 
-        
+      page.evaluate(function () {
+
         var errors =  [];
-        
+
         var img = document.querySelector("img");
         var style = getComputedStyle(img,null);
-        
-        
+
         var darkgreen = "rgb(0, 100, 0)";
         var ligthgreen = "rgb(144, 238, 144)";
 
@@ -47,10 +48,7 @@ phantom.create(function (ph) {
         }
 
         return errors;
-        
-      
       }, function (retErrors) {
-        
         if (!retErrors) {
           process.stdout.write("There was a problem running the test");
           ph.exit();
@@ -67,7 +65,6 @@ phantom.create(function (ph) {
             process.exit(1);
           }
         }
-        
       });
     });
   });
