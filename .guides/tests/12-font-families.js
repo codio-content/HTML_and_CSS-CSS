@@ -9,32 +9,31 @@ var stylepath = basepath + "/12-font-families/style.css";
 
 var ast = cssutils.get_ast(stylepath);
 
+function hasFont(selector, property, family) {
+	return ast.selector_has_property(selector, property, family)
+		|| ast.selector_has_property(selector, property, "'" + family + "'")
+		|| ast.selector_has_property(selector, property, '"' + family + '"')
+}
+
 if (ast.ast == undefined) {
-    errors.push(stylepath + " doesn't exist or cannot be parsed");   
+    errors.push(stylepath + " doesn't exist or cannot be parsed");
 } else {
-  
-    if (! (ast.selector_has_property("h1","font-family","Indie Flower") || ast.selector_has_property("h1","font-family","'Indie Flower'"))) {
+
+    if (!hasFont("h1","font-family","Indie Flower")) {
       errors.push("h1 doesnt have font-family Indie Flower");
     }
-  
-    if (! (ast.selector_has_property("h2","font-family","Lobster") || ast.selector_has_property("h2","font-family","'Lobster'"))) {
+
+    if (!hasFont("h2","font-family","Lobster")) {
       errors.push("h2 doesnt have font-family Lobster");
     }
-  
-    if (! (ast.selector_has_property("h3","font-family","Poiret One") || ast.selector_has_property("h4","font-family","'Poiret One'"))) {
+
+    if (!hasFont("h3","font-family","Poiret One")) {
       errors.push("h3 doesnt have font-family Poiret One");
     }
-  
-    if (! (ast.selector_has_property("h4","font-family","Dancing Script") || ast.selector_has_property("h1","font-family","'Dancing Script'"))) {
+
+    if (!hasFont("h4","font-family","Dancing Script")) {
       errors.push("h4 doesnt have font-family Dancing Script");
     }
-  
-  
-    
-  
-    
-  
-    
 }
 
 if( errors.length <= 0 ) {
