@@ -1,0 +1,144 @@
+{
+ "name": "HTML_and_CSS-CSS1",
+ "children": [
+  {
+   "title": "Introduction",
+   "id": "265b8ea7-4f-e331-523-58b65244efe",
+   "pageId": "265b8ea7-4f-e331-523-58b65244efe",
+   "type": "page"
+  },
+  {
+   "title": "Cascading Style Sheets",
+   "id": "824b867a-4844-ca37-183-afec1fd248a2",
+   "pageId": "824b867a-4844-ca37-183-afec1fd248a2",
+   "type": "page"
+  },
+  {
+   "title": "CSS versions",
+   "id": "c42b412e-cbbc-4b6-241-bf3a78a2de8",
+   "pageId": "c42b412e-cbbc-4b6-241-bf3a78a2de8",
+   "type": "page"
+  },
+  {
+   "title": "Where do we put our styles",
+   "id": "3dc87ddb-719-55e-458-ef4aefde08b",
+   "pageId": "3dc87ddb-719-55e-458-ef4aefde08b",
+   "type": "page"
+  },
+  {
+   "title": "Demo",
+   "id": "449ebde6-8fb4-2b96-e5fd-cb3a6308c1e",
+   "pageId": "449ebde6-8fb4-2b96-e5fd-cb3a6308c1e",
+   "type": "page"
+  },
+  {
+   "title": "Inline Style",
+   "id": "80f79dd-ce71-9d44-6403-f68ee087a7d6",
+   "pageId": "80f79dd-ce71-9d44-6403-f68ee087a7d6",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Inheritance",
+     "id": "d62e9fe9-a70a-ae4a-4dc0-18738ce233e",
+     "pageId": "d62e9fe9-a70a-ae4a-4dc0-18738ce233e",
+     "type": "page"
+    },
+    {
+     "title": "Grouping styles",
+     "id": "21ba95e7-9c89-e21b-b4aa-5b40e734a972",
+     "pageId": "21ba95e7-9c89-e21b-b4aa-5b40e734a972",
+     "type": "page"
+    },
+    {
+     "title": "CSS File",
+     "id": "a2df190c-37f7-9d06-2bf9-2631db27df43",
+     "pageId": "a2df190c-37f7-9d06-2bf9-2631db27df43",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Text color",
+   "id": "6cf2c1f-cd4b-bb8f-e9ec-3f0198c9adb3",
+   "pageId": "6cf2c1f-cd4b-bb8f-e9ec-3f0198c9adb3",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "More text styling",
+   "id": "21b266c3-830f-86b7-10b0-70b0903720a2",
+   "pageId": "21b266c3-830f-86b7-10b0-70b0903720a2",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Font styles and font weight",
+   "id": "bd1ea1af-8739-dcf9-2e31-7bd999f3ba7c",
+   "pageId": "bd1ea1af-8739-dcf9-2e31-7bd999f3ba7c",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Font families",
+   "id": "97b47354-afd4-a4d2-6e9b-15f2b86a3f95",
+   "pageId": "97b47354-afd4-a4d2-6e9b-15f2b86a3f95",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "System fonts and web-safe fonts",
+     "id": "c2acca11-aedc-821f-936d-4aa2862b7d02",
+     "pageId": "c2acca11-aedc-821f-936d-4aa2862b7d02",
+     "type": "page"
+    },
+    {
+     "title": "Web fonts",
+     "id": "94a6474a-6b1-59ab-4b51-9b79f8b6ccf9",
+     "pageId": "94a6474a-6b1-59ab-4b51-9b79f8b6ccf9",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Font size and units",
+   "id": "dda870ec-4a63-279b-7b11-9233e5c5c0de",
+   "pageId": "dda870ec-4a63-279b-7b11-9233e5c5c0de",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Font size challenge",
+     "id": "3e3f1408-dc90-2b62-acca-86bb35e35e9b",
+     "pageId": "3e3f1408-dc90-2b62-acca-86bb35e35e9b",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Some image styling",
+   "id": "13ac839c-3a71-26c3-9de-fc0e24bae944",
+   "pageId": "13ac839c-3a71-26c3-9de-fc0e24bae944",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "CSS 3 image styles",
+     "id": "fd737a97-3c9c-d4c2-8808-ddf855fc1759",
+     "pageId": "fd737a97-3c9c-d4c2-8808-ddf855fc1759",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Final Challenge",
+   "id": "c5131ec8-2028-c9a8-9f08-bcea544c34a1",
+   "pageId": "c5131ec8-2028-c9a8-9f08-bcea544c34a1",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "That's all folks",
+   "id": "218d6d3-a9e5-a046-30d1-4be68e42413d",
+   "pageId": "218d6d3-a9e5-a046-30d1-4be68e42413d",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
